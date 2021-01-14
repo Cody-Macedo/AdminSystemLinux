@@ -1,0 +1,7 @@
+Commande Vim:
+
+- insertion `i`
+- quitter sans sauvegarder `:q!`
+- quitter `:q`
+- quitter en sauvegardant `:wq`
+- 
